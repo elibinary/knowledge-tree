@@ -7,6 +7,10 @@
 * [GoTips - 生成随机字符串](golang/gotips-sheng-cheng-sui-ji-zi-fu-chuan.md)
 * [源码阅读-Go Context](golang/source-code-go-context.md)
 
+## Ruby
+
+* [Ruby 的设计美学](ruby/ruby-de-she-ji-mei-xue.md)
+
 ## Database
 
 * [MySQL master-slave lag](database/mysql-master-slave-lag.md)

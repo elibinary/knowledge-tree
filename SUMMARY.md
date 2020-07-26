@@ -15,4 +15,5 @@
 
 * [MySQL master-slave lag](database/mysql-master-slave-lag.md)
 * [列式存储 & Apache Arrow](database/lie-shi-cun-chu-apache-arrow.md)
+* [DDIA-分布式存储-基础](database/ddia-fen-bu-shi-cun-chu-ji-chu.md)
 

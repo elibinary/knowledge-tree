@@ -9,7 +9,9 @@
 
 ### UUID
 
-> A Universally Unique IDentifier \(UUID\) URN Namespace RFC: [https://www.ietf.org/rfc/rfc4122.txt](https://www.ietf.org/rfc/rfc4122.txt)
+> A Universally Unique IDentifier \(UUID\) URN Namespace 
+>
+> RFC: [https://www.ietf.org/rfc/rfc4122.txt](https://www.ietf.org/rfc/rfc4122.txt)
 
 UUID 的标准形式：由 32 个 16 进制数及 '-' 符组成，形式为 8-4-4-4-12 的 36 位字符串
 
@@ -179,4 +181,8 @@ ok      command-line-arguments    1.481s
 * [https://tech.meituan.com/2017/04/21/mt-leaf.html](https://tech.meituan.com/2017/04/21/mt-leaf.html)
 * [https://tech.meituan.com/2019/03/07/open-source-project-leaf.html](https://tech.meituan.com/2019/03/07/open-source-project-leaf.html)
 * [https://github.com/Meituan-Dianping/Leaf](https://github.com/Meituan-Dianping/Leaf)
+
+以及 sony 实现：
+
+* [https://github.com/sony/sonyflake](https://github.com/sony/sonyflake)
 

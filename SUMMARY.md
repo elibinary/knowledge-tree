@@ -17,3 +17,7 @@
 * [列式存储 & Apache Arrow](database/lie-shi-cun-chu-apache-arrow.md)
 * [DDIA-分布式存储-基础](database/ddia-fen-bu-shi-cun-chu-ji-chu.md)
 
+## Engineering
+
+* [分布式唯一 ID 生成](engineering/fen-bu-shi-wei-yi-id-sheng-cheng.md)
+

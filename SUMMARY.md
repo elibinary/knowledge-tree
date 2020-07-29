@@ -9,7 +9,10 @@
 
 ## Ruby
 
-* [Ruby 的设计美学](ruby/ruby-de-she-ji-mei-xue.md)
+## Ruby <a id="ruby-1"></a>
+
+* [Ruby 的设计美学](ruby-1/ruby-de-she-ji-mei-xue.md)
+* [Ruby 的设计美学](ruby-1/ruby-de-she-ji-mei-xue-1.md)
 
 ## Database
 

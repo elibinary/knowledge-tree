@@ -6,6 +6,7 @@
 
 * [GoTips - 生成随机字符串](golang/gotips-sheng-cheng-sui-ji-zi-fu-chuan.md)
 * [源码阅读-Go Context](golang/source-code-go-context.md)
+* [Golang 并发模型](golang/golang-bing-fa-mo-xing.md)
 
 ## Ruby
 

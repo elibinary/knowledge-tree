@@ -8,8 +8,6 @@
 * [源码阅读-Go Context](golang/source-code-go-context.md)
 * [Golang 并发模型](golang/golang-bing-fa-mo-xing.md)
 
-## Ruby
-
 ## Ruby <a id="ruby-1"></a>
 
 * [Ruby 的设计美学](ruby-1/ruby-de-she-ji-mei-xue.md)
